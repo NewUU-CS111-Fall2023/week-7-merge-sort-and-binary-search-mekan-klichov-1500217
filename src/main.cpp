@@ -79,6 +79,7 @@ int main() {
         cout << num << " ";
     }
     std::cout << "Task 6" << std::endl;
+    //call for task 6
     int Num;
     cin >> Num;
 
